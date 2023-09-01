@@ -6,6 +6,6 @@ Goal
 Controls
 #To control the ship and lasers in the game, you can use the (A, W, D, and Space) keys.
 
+![Menu screen](https://raw.githubusercontent.com/CyrusRel/Invader-Zim/main/game%20screenshots/Start.png)
 
-
-
+![Game play](https://raw.githubusercontent.com/CyrusRel/Invader-Zim/main/game%20screenshots/playing.png)
